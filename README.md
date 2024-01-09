@@ -9,7 +9,7 @@ trying to become a Full Stack Web Developer
 * ✉️  You can contact me at [tim.dehler@tibidi.de](mailto:tim.dehler@tibidi.de)
 * 🧠  I'm learning Full Stack Web Development
 
-### Skills
+## Skills
 
 
 <p align="left">
@@ -17,10 +17,10 @@ trying to become a Full Stack Web Developer
 </p>
 
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://www.github.com/TimDehler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/tim-dehler-b01a68287/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+## Badges
 
 <a href="https://github.com/TimDehler" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimDehler&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
