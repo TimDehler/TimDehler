@@ -4,7 +4,7 @@
 
 - 🌍  I'm based in Fulda, Germany
 - 🖥️  See my portfolio at [https://timdehler.github.io/TimDehler-Portfolio/](http://timdehler.github.io/TimDehler-Portfolio/)
-- ✉️  You can contact me at [tim.dehler@tibidi.de](mailto:tim.dehler@tibidi.de) or on https://timdehler.github.io/TimDehler-Portfolio/#contact
+- ✉️  You can contact me at [tim.dehler@tibidi.de](mailto:tim.dehler@tibidi.de)
 - 🧠  I'm learning Full Stack Web Development
 
 # Skills
