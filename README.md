@@ -1,12 +1,11 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Tim Dehler
 
-### I am currently on my way to become a Full Stack Web Developer
+### I am a Full Stack Web Developer
 
 - 🌍  I'm based in Fulda, Germany
 - 🖥️  See my portfolio at [https://timdehler.github.io/TimDehler-Portfolio/](http://timdehler.github.io/TimDehler-Portfolio/)
 - ✉️  You can contact me at [tim.dehler@tibidi.de](mailto:tim.dehler@tibidi.de)
-- 🧠  I'm learning Full Stack Web Development
-
+  
 # Skills
 
 <p align="left">
