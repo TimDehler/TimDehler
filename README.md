@@ -3,7 +3,6 @@
 ### I am a Full Stack Web Developer
 
 - 🌍  I'm based in Fulda, Germany
-- 🖥️  See my portfolio at [https://timdehler.github.io/TimDehler-Portfolio/](http://timdehler.github.io/TimDehler-Portfolio/)
 - ✉️  You can contact me at [tim.dehler@tibidi.de](mailto:tim.dehler@tibidi.de)
   
 # Skills
